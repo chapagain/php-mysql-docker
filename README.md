@@ -31,3 +31,8 @@ docker-compose logs
 docker ps
 ```
 
+**Stop and Remove the containers**
+
+```
+docker-compose down
+```
