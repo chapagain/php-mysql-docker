@@ -1,13 +1,15 @@
 # PHP MySQL Development Environment with Docker
 
-**Blog:** https://blog.chapagain.com.np/set-up-php-development-environment-with-docker/
+## Blog 
+https://blog.chapagain.com.np/set-up-php-development-environment-with-docker/
 
-**Installed Services:**
+## Installed Services
 - PHP
 - MySQL (database)
 - Nginx (web server)
 - PhpMyAdmin (database management tool)
 
+## Working with Docker Containers
 **Create and start docker containers in the foreground**
 ```
 docker-compose up
